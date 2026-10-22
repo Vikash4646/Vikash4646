@@ -1,37 +1,73 @@
-# 👋 Hi, I’m Vikash
+# Hey, I'm Vikash 👋
 
-I’m a Computer Technology graduate with hands-on experience in **Machine Learning, Data Analysis, and Applied AI**. I enjoy building practical, end-to-end solutions that combine data processing, model development, and real-world problem solving.
+### Associate DevOps Engineer | Cloud Infrastructure | Automation | AI Infrastructure
 
-## 🔍 What I Work On
-- Machine Learning projects (Supervised & Unsupervised)
-- Data preprocessing and feature engineering
-- Model evaluation and interpretation
-- Exploring Generative AI concepts like Retrieval-Augmented Generation (RAG)
+I'm an Associate DevOps Engineer interested in building, deploying, and maintaining reliable, secure, and cost-efficient infrastructure. I work with AWS and Google Cloud, gaining hands-on experience in cloud operations, resource monitoring, troubleshooting, and cost optimisation.
 
-## 🚀 Projects
-### 📊 Customer Segmentation (Unsupervised Learning)
-- Built a customer segmentation pipeline using clustering techniques.
-- Performed data cleaning, preprocessing, and normalization.
-- Evaluated clustering quality using methods like Silhouette Score and Elbow Method.
+I believe in learning by doing — understanding systems, automating repetitive tasks, investigating failures, and continuously improving how applications are built and deployed.
 
-### 🔁 Customer Churn Prediction (Supervised Learning)
-- Developed a churn prediction model using historical customer data.
-- Handled missing values and feature inconsistencies.
-- Evaluated model performance using appropriate classification metrics.
+## 🚀 What I'm Working On
 
-### 🤖 RAG-based Knowledge Assistant (In Progress)
-- Building a Retrieval-Augmented Generation (RAG) system using LangChain and FAISS.
-- Enables document-grounded question answering using Large Language Models.
-- Planned deployment using Streamlit and Hugging Face Spaces.
+- ☁️ **Cloud Infrastructure:** Working with AWS and GCP services, infrastructure monitoring, resource management, and cloud cost analysis.
+- 🐧 **Linux & Networking:** Strengthening my understanding of Linux administration, permissions, processes, SSH, networking, and troubleshooting.
+- 🐳 **Containers:** Learning Docker and container-based application deployment.
+- 🔄 **DevOps & Automation:** Building my skills in Git, CI/CD pipelines, deployment automation, and infrastructure as code.
+- 📊 **Reliability & Observability:** Exploring logging, monitoring, alerting, incident investigation, and performance optimisation.
+- 🤖 **AI Infrastructure:** Applying my background in Machine Learning and exploring the infrastructure behind AI applications, LLMs, and MLOps.
 
-## 🛠️ Skills & Tools
-- **Programming:** Python, SQL  
-- **Machine Learning:** Scikit-learn, Pandas, NumPy, Feature Engineering  
-- **Data:** Data Cleaning, EDA, Model Evaluation  
-- **GenAI (Learning):** RAG, Embeddings, Vector Databases  
-- **Tools:** Google Colab, Git, GitHub, Streamlit  
+## 🛠️ Tech Stack
 
-## 🎯 Goals
-I’m actively seeking **entry-level AI/ML, Data Science, or related roles**, where I can continue learning and contribute to impactful projects.
+**Cloud Platforms**
+- AWS
+- Google Cloud Platform (GCP)
 
-📫 Feel free to explore my repositories or connect with me!
+**Systems & Version Control**
+- Linux
+- Git and GitHub
+- Bash fundamentals
+
+**Containers & Infrastructure**
+- Docker
+- Nginx
+- Infrastructure as Code — Terraform
+
+**Cloud Operations**
+- Resource monitoring and troubleshooting
+- Cloud cost monitoring and optimisation
+- Server administration and deployment support
+- Incident investigation
+
+**Programming & AI Background**
+- Python
+- SQL
+- Machine Learning fundamentals
+- Scikit-learn, Pandas, and NumPy
+- Exploring Generative AI and Retrieval-Augmented Generation (RAG)
+
+## 🧪 What I'm Building
+
+I'm building a hands-on DevOps lab to practise real-world deployment workflows, including:
+
+- Linux server configuration and administration
+- Git-based application workflows
+- Dockerising applications and managing containers
+- Deploying applications behind Nginx
+- Automating builds and deployments with CI/CD
+- Provisioning cloud infrastructure with Terraform
+- Monitoring applications and troubleshooting failures
+- Exploring cloud-native infrastructure and Kubernetes
+
+My goal is to turn each concept into a working implementation, document what I learn, and build projects that demonstrate practical engineering skills.
+
+## 🎯 My Goals
+
+I'm focused on growing into a strong **Cloud & DevOps Engineer**, with a long-term interest in Platform Engineering, MLOps, and AI Infrastructure.
+
+I'm continuously improving my skills in cloud architecture, automation, reliability, security, and scalable application deployment.
+
+## 📫 Let's Connect
+
+I'm always interested in learning from other engineers, collaborating on infrastructure projects, and sharing knowledge.
+
+Feel free to explore my repositories and connect with me!
+
